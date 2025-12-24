@@ -1,0 +1,7 @@
+{
+  "name": "Arzify: Iranian Market Analyst",
+  "description": "An advanced financial analysis platform for the Iranian market (Bourse, Gold, and Currency) featuring AI-powered buy/sell signals and market sentiment analysis.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
